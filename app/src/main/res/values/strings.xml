@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Body mass index using ViewModel</string>
+    <string name="body_mass_index_calculator">Body Mass Index Calculator</string>
+    <string name="heightInput">heightInput</string>
+    <string name="weightInput">weightInput</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi">BMI</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="reset">Reset</string>
+    <string name="bmi_result">Your BMI is: %s</string>
+    body_mass_index_using_view_model
+
+    weightInput
+
+
+    R.string.height
+    R.string.weight
+    R.string.result
+
+</resources>
